@@ -129,7 +129,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
   </a>
   <img width="12" />
-  <a href="https www.vagrantup.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.vagrantup.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
   </a>
   <img width="12" />
