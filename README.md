@@ -5,13 +5,13 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3000&size=36&duration=3000&pause=6200&color=33b64a&center=true&width=1200&lines= Hi+there,+I%27m+Giovani+%F0%9F%91%8B"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3000&size=36&duration=3000&pause=6200&color=33b64a&center=true&width=1200&lines=Hi+there,+I%27m+Giovani+%F0%9F%91%8B" alt="Animated Typing Title"/>
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=6100&pause=1500&color=1f6feb&center=true&width=1000&lines=%F0%9F%92%BB+Software+Developer+%7C+.NET+%26+Clean+Architecture"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=6100&pause=1500&color=1f6feb&center=true&width=1000&lines=%F0%9F%92%BB+Software+Developer+%7C+.NET+%26+Clean+Architecture" alt="Animated Typing SubTitle"/>
 </p>
 
 ###
