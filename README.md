@@ -4,11 +4,15 @@
 
 ###
 
-<h1 align="left">Hi there, I'm Giovani 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3000&size=36&duration=3000&pause=6200&color=33b64a&center=true&width=1200&lines= Hi+there,+I'm+Giovani+%F0%9F%91%8B"/>
+</p>
 
 ###
 
-<h2 align="center">💻 Software Developer | .NET & Clean Architecture</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=6100&pause=1500&color=1f6feb&center=true&width=1000&lines=%F0%9F%92%BB+Software+Developer+%7C+.NET+%26+Clean+Architecture"/>
+</p>
 
 ###
 
@@ -99,7 +103,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=GiovaniCancherini&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://streak-stats.demolab.com?user=GiovaniCancherini&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovaniCancherini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovaniCancherini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&hide=Makefile,SCSS,HTML,CSS,Jupyter%20Notebook" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiovaniCancherini&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
