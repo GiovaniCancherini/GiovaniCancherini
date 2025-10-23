@@ -5,7 +5,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3000&size=36&duration=3000&pause=6200&color=33b64a&center=true&width=1200&lines= Hi+there,+I'm+Giovani+%F0%9F%91%8B"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3000&size=36&duration=3000&pause=6200&color=33b64a&center=true&width=1200&lines= Hi+there,+I%27m+Giovani+%F0%9F%91%8B"/>
 </p>
 
 ###
