@@ -1,116 +1,100 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1f6feb"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=1f6feb" alt="" />
 </div>
-
-###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3000&size=36&duration=3000&pause=6200&color=33b64a&center=true&width=1200&lines=Hi+there,+I%27m+Giovani+%F0%9F%91%8B" alt="Animated Typing Title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=6200&color=33B64A&center=true&vCenter=true&width=900&lines=Hi+there,+I%27m+Giovani+%F0%9F%91%8B" alt="Hi there, I'm Giovani" />
 </p>
-
-###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=6100&pause=1500&color=1f6feb&center=true&width=1000&lines=%F0%9F%92%BB+Software+Developer+%7C+.NET+%26+Clean+Architecture" alt="Animated Typing SubTitle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=6100&pause=1500&color=1F6FEB&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+C%23+%2F+.NET+%26+Java+%2F+Spring+Boot" alt="Software Engineer | C# / .NET and Java / Spring Boot" />
 </p>
 
-###
+I'm a Software Engineer with 6+ years building rural credit systems in production at Banrisul, a Brazilian state-owned bank, in C#/.NET and Oracle, from MVP to daily operations. B.Sc. in Computer Science from PUCRS (2026).
 
-<p align="left">I'm a .NET Developer with solid experience in building high-performance and secure systems. Over the past few years, I've been working in the financial sector, developing solutions that demand performance, reliability, and alignment with complex business rules.<br><br>Currently pursuing a Bachelor’s degree in Computer Science, and I’m passionate about designing architectures that balance clean design, scalability, and business value.<br><br>💡 Main interests:<br><br>- Backend development with C# and .NET Core<br>- System design, APIs, and database modeling<br>- DevOps practices, CI/CD pipelines, and cloud environments (AWS / Azure)<br>- Software quality and engineering best practices (Clean Code, SOLID, DDD, TDD)<br><br>🎯 Currently focused on: enhancing my skills in cloud automation and scalable architectures.</p>
+💡 **Main interests**
 
-###
+- Back-end development with C#/.NET and Java/Spring Boot
+- System design, APIs, messaging and database modeling
+- Software quality: Clean Code, SOLID, DDD and TDD
+- DevOps practices, CI/CD and cloud (Azure and AWS)
 
-<h3 align="left">Connect with me:</h3>
+🎯 **Currently:** adding OpenTelemetry observability to [sales-events-java](https://github.com/GiovaniCancherini/sales-events-java).
 
-###
+### 🚀 Featured projects
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/giovanicancherini/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+| Project | What it shows |
+|---|---|
+| [sales-api-dotnet](https://github.com/GiovaniCancherini/sales-api-dotnet) | .NET 8 REST API with DDD, CQRS (MediatR), PostgreSQL, MongoDB domain events and Redis cache |
+| [sales-events-java](https://github.com/GiovaniCancherini/sales-events-java) | Java 17 and Spring Boot 4 services talking through Kafka, with outbox, idempotent consumer and Angular micro front-ends |
+| [traveling-salesman-problem](https://github.com/GiovaniCancherini/traveling-salesman-problem) | An old genetic algorithm rewritten as a local search, with a real-time Swing view |
 
-###
+### Connect with me
 
-<h3 align="left">Languages:</h3>
+<a href="https://www.linkedin.com/in/giovanicancherini/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
 
-###
-
-<div align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" /></a>
-  <img width="12" />
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" /></a>
-  <img width="12" />
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" /></a>
-  <img width="12" />
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" /></a>
-  <img width="12" />
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo" /></a>
-  <img width="12" />
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo" /></a>
-  <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" /></a>
-  <img width="12" />
-  <a href="https://angularjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo" /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" /></a>
-  <img width="12" />
-  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="40" alt="jquery logo" /></a>
-  <img width="12" />
-  <a href="https://www.jenkins.io/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" /></a>
-  <img width="12" />
-  <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" /></a>
-  <img width="12" />
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" /></a>
-</div>
-
-###
-
-<h3 align="left">Tools:</h3>
-
-###
+### Languages and frameworks
 
 <div align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img width="12" />
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
   <img width="12" />
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
   <img width="12" />
-  <a href="https://www.notion.so/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
   <img width="12" />
-  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <a href="https://yarnpkg.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo" /></a>
-  <img width="12" />
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo" /></a>
-  <img width="12" />
-  <a href="https://www.linuxfoundation.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </div>
 
-###
+### Data and messaging
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />
+</div>
+
+### DevOps and tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=GiovaniCancherini&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=GiovaniCancherini&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovaniCancherini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&hide=Makefile,SCSS,HTML,CSS,Jupyter%20Notebook" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiovaniCancherini&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=GiovaniCancherini&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="Weekly streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovaniCancherini&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&hide=Makefile,SCSS,HTML,CSS,Jupyter%20Notebook" height="150" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiovaniCancherini&radius=16&theme=github-compact&area=true&hide_border=true" width="100%" alt="Contribution activity" />
 </div>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=1f6feb"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=1f6feb" alt="" />
 </div>
-
-###
